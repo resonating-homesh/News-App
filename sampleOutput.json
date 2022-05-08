@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "NBA Insiders",
+            "title": "NBA playoffs 2022 - Our experts answer big first-round questions - ESPN",
+            "description": "Which returning player could have the biggest impact? Which higher seed can least afford to lose Game 1? Our NBA experts break down the top first-round storylines.",
+            "url": "https://www.espn.com/nba/story/_/id/33746283/nba-playoffs-2022-our-experts-answer-big-first-round-questions",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0415%2Fr1000359_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-04-16T12:38:13Z",
+            "content": "The NBA playoffs are here with four first-round games taking place on Saturday and Sunday.\r\nIn the East, all eyes will be on the Boston Celtics vs. Brooklyn Nets series as Kevin Durant and Kyrie Irvi… [+11620 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Marc Santora",
+            "title": "Russia-Ukraine War and Putin News: Live Updates - The New York Times",
+            "description": "Russia took aim at military targets around the country, and the Ukrainians claimed to have shot down missiles directed at Odesa to the south and Lviv to the west. Before an expected Russian offensive, the assaults underscored that Russia can still attack targ…",
+            "url": "https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/16/world/16ukraine-blog-header-830am-EST/16ukraine-blog-header-830am-EST-facebookJumbo.jpg",
+            "publishedAt": "2022-04-16T12:26:31Z",
+            "content": "WASHINGTON The Moskva was the pride of Russias Black Sea Fleet, a symbol of the countrys dominance of the region and a powerful war machine that had been used to launch precision cruise missiles deep… [+9245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Sarah Haque",
+            "title": "Harry and Meghan to speak at opening of Invictus Games - The Guardian",
+            "description": "Duke and Duchess of Sussex will address spectators in The Hague accompanied by Netflix film crew",
+            "url": "https://amp.theguardian.com/uk-news/2022/apr/16/harry-and-meghan-to-speak-at-opening-of-invictus-games",
+            "urlToImage": null,
+            "publishedAt": "2022-04-16T11:28:00Z",
+            "content": "Prince HarryDuke and Duchess of Sussex will address spectators in The Hague accompanied by Netflix film crew\r\nSat 16 Apr 2022 12.24 BST\r\nThe Duke and Duchess of Sussex are expected to speak on stage … [+2656 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Nika Shakhnazarova",
+            "title": "'Seinfeld' cast remembers its beloved two moms - New York Post ",
+            "description": "The cast of “Seinfeld” has paid poignant tribute to its two beloved moms, following the back-to-back deaths of Liz Sheridan and Estelle Harris.",
+            "url": "https://nypost.com/2022/04/16/seinfeld-cast-remembers-its-beloved-tv-moms-liz-sheridan-and-estelle-harris/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/newspress-collage-21926524-1650103991261.png?w=1024",
+            "publishedAt": "2022-04-16T10:33:00Z",
+            "content": "The cast of “Seinfeld” paid poignant tribute to its two beloved moms, following the back-to-back deaths of Liz Sheridan and Estelle Harris.\r\nSheridan, famed for playing Jerry Seinfelds sitcom mom, di… [+2063 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Thai rebels excluded from talks take responsibility for Ramadan bombings - Reuters.com",
+            "description": "Thai rebels sidelined from peace talks claimed responsibility on Saturday for deadly bombings in the country's Muslim-majority deep south that broke a Ramadan holiday agreed between the main rebel group and the government.",
+            "url": "https://www.reuters.com/world/asia-pacific/thai-rebels-excluded-talks-take-responsibility-ramadan-bombings-2022-04-16/",
+            "urlToImage": "https://www.reuters.com/resizer/3IcYCK6oBlYDJ_lLKwMUN7gb62k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y5XTME4GGVISHMWIBDJYVBMCJY.jpg",
+            "publishedAt": "2022-04-16T10:24:00Z",
+            "content": "BANGKOK, April 16 (Reuters) - Thai rebels sidelined from peace talks claimed responsibility on Saturday for deadly bombings in the country's Muslim-majority deep south that broke a Ramadan holiday ag… [+1817 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alicia Wallace and Vanessa Yurkevich, CNN",
+            "title": "Rotting fruit, spoiled vegetables: How Texas just made the supply chain even worse - CNN",
+            "description": "A weeklong protest by Texas Governor Greg Abbott has resulted in hundreds of millions of lost dollars and caused delays in shipments of everything from avocados to car parts.",
+            "url": "https://www.cnn.com/2022/04/16/economy/texas-mexico-abbott-border-economic-impact/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220415165626-03-texas-mexico-abbott-economic-impact-super-tease.jpg",
+            "publishedAt": "2022-04-16T09:30:00Z",
+            "content": "San Francisco (CNN)A weeklong protest by Texas Gov. Greg Abbott against President Biden's recent immigration policy reached a resolution on Friday, but the gridlock it created has resulted in hundred… [+5634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WOODTV.com"
+            },
+            "author": "Ben Raymond",
+            "title": "DNR suggests skipping the bird feeder this year - WOODTV.com",
+            "description": "Following the detection of highly pathogenic avian influenza in Menominee County, state wildlife officials are making suggestions to help prevent the spread of the virus.",
+            "url": "https://www.woodtv.com/news/michigan/dnr-suggests-skipping-the-bird-feeder-this-year/",
+            "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/04/GettyImages-155599045.jpg?w=1280",
+            "publishedAt": "2022-04-16T09:00:48Z",
+            "content": "MARQUETTE, Mich. (WJMN) Following the detection of highly pathogenic avian influenza in Menominee County, state wildlife officials are making suggestions to help prevent the spread of the virus.\r\nThe… [+1634 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "What is Twitter’s ‘poison pill’ and what is it supposed to do? - Al Jazeera English",
+            "description": "On Friday, Twitter’s board showed it will not go quietly after Musk offered to buy the company.",
+            "url": "https://www.aljazeera.com/news/2022/4/16/explainer-what-twitters-poison-pill-is-supposed-to-do",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/04/2022-04-15T182349Z_758599482_RC29NT9MB4DM_RTRMADP_3_TWITTER-M-A-MUSK-1.jpg?resize=1200%2C630",
+            "publishedAt": "2022-04-16T08:55:39Z",
+            "content": "Twitter is trying to thwart billionaire Elon Musks takeover attempt with a poison pill, a financial device that companies have been wielding against unwelcome suitors for decades.\r\nOn Thursday, Musk … [+3429 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Chinese astronauts land on Earth after China's longest crewed space mission - Reuters.com",
+            "description": "Three Chinese astronauts returned to earth on Saturday after 183 days in space, state television reported, completing the country's longest crewed space mission to date.",
+            "url": "https://www.reuters.com/world/chinese-astronauts-leave-space-station-module-cctv-2022-04-16/",
+            "urlToImage": "https://www.reuters.com/resizer/rblBugcQ13QLaNvuGPibT68ruRk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AGL7CVJ2C5OOXAAWV7ZZOYC4M4.jpg",
+            "publishedAt": "2022-04-16T08:39:00Z",
+            "content": "SHANGHAI, April 16 (Reuters) - Three Chinese astronauts returned to earth on Saturday after 183 days in space, state television reported, completing the country's longest crewed space mission to date… [+1811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Coachella Weekend's Biggest Party Expecting A-List Actors and Rappers - TMZ",
+            "description": "Leonardo DiCaprio and Shailene Woodley are among the celebs scheduled to attend Neon Carnival, the biggest party during Coachella weekend.",
+            "url": "https://www.tmz.com/2022/04/16/coachella-major-celebs-expected-festivals-biggest-party-neon-carnival/",
+            "urlToImage": "https://imagez.tmz.com/image/1b/16by9/2022/04/15/1b4c4f8391b441df9dafbebb7894f5a0_xl.png",
+            "publishedAt": "2022-04-16T08:00:00Z",
+            "content": "Leonardo DiCaprio, Saweetieand Doja Catare among some of the big names who've secured entry to the biggest and most exclusive party during Coachella, TMZ has learned.\r\nNeon Carnival is known as THE p… [+1248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Jack Maloney",
+            "title": "Clippers vs. Pelicans score, takeaways: Brandon Ingram leads New Orleans to win over L.A. to clinch No. 8 seed - CBS Sports",
+            "description": "The Pelicans will now square off against the Suns",
+            "url": "https://www.cbssports.com/nba/news/clippers-vs-pelicans-score-takeaways-brandon-ingram-leads-new-orleans-to-win-over-l-a-to-clinch-no-8-seed/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/04/16/f94eb0d0-037a-4cf3-b13b-59335e127311/thumbnail/1200x675/0d79612ec8d61e7be8df96277595e13d/untitled-design-2022-04-15t221527-885.png",
+            "publishedAt": "2022-04-16T06:19:00Z",
+            "content": "The New Orleans Pelicans are heading to the NBA playoffs after taking down the Los Angeles Clippers, 105-101, on Friday night and will now square off against the Phoenix Suns in the 1/8 matchup in th… [+5707 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "USFL begins first season: 5 new innovations you have to see - Fox News",
+            "description": "Fans will have an immersive experience when watching USFL games.",
+            "url": "https://www.foxnews.com/sports/usfl-5-new-innovations",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/04/Gamblers-USFL.jpg",
+            "publishedAt": "2022-04-16T05:56:14Z",
+            "content": "The United States Football Leagues first season is kicking off and fans can expect some new innovative technologies to enhance the experience of watching the game on television.\r\nDaryl Johnston, the … [+2818 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Mike Vulpo",
+            "title": "Coachella 2022 Star Sightings: See Hollywood Take Over the Music Festival - E! NEWS",
+            "description": "After a two-year absence, the Coachella Music Festival is back—and more star-studded than ever! Check out some of the celebs spotted hanging out at and around the 2022 concert in Indio, Calif.",
+            "url": "https://www.eonline.com/news/1327495/coachella-2022-star-sightings-see-hollywood-take-over-the-music-festival",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022315/rs_1200x1200-220415221538-1200-billie-eilish-mv-41522.jpg?fit=around%7C1080:566&output-quality=90&crop=1080:566;center,top",
+            "publishedAt": "2022-04-16T05:39:00Z",
+            "content": "Coachella or bust, baby!\r\nThe famed art and music festival officially kicked off on April 15, attracting fans everywhere to the California desert for a weekend of heat and beats. Seeing how the 2022 … [+875 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Scott Coker Reacts To No-Contest In Grand Prix Final, A.J. McKee Loss | Bellator 277 | MMA Fighting - MMAFightingonSBN",
+            "description": "#Bellator President Scott Coker talked to reporters after #Bellator277 on Friday night and addressed the no-contest in the light heavyweight grand prix, scor...",
+            "url": "https://www.youtube.com/watch?v=YEJ99MSM7L8",
+            "urlToImage": "https://i.ytimg.com/vi/YEJ99MSM7L8/maxresdefault.jpg",
+            "publishedAt": "2022-04-16T05:24:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jesse O’Neill",
+            "title": "900 civilians found dead in Kyiv, Ukraine police say - New York Post ",
+            "description": "The news coincided with Ukraine President Volodymyr Zelensky’s announcement that between 2,500 to 3,000 Ukrainian troops have been killed in the invasion.",
+            "url": "https://nypost.com/2022/04/16/ukraine-police-say-900-civilians-found-dead-in-kyiv/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/ukraine-war-deaths.png?w=1024",
+            "publishedAt": "2022-04-16T05:22:00Z",
+            "content": "Russian forces withdrawing from the Kyiv region left behind the bodies of more than 900 slaughtered Ukraine civilians, local authorities said Friday. \r\nThe vast majority of the victims in the area su… [+2935 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Tom Tapp",
+            "title": "Los Angeles Covid Test Positivity Rising Rapidly; Only Time Will Tell If Hospitalizations Follow Suit - Deadline",
+            "description": "Los Angeles County reported 1,355 new Covid cases on Friday, continuing an upward trend that began about a week ago as the more-infectious BA.2 subvariant continues to spread. Last week, the 7-day average daily number of new cases in the county was 878. By ye…",
+            "url": "https://deadline.com/2022/04/los-angeles-covid-test-positivity-rising-rapidly-1235003246/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/08/Downtown-Los-Angeles-skyline.jpg?w=1024",
+            "publishedAt": "2022-04-16T03:06:00Z",
+            "content": "Los Angeles County reported 1,355 new Covid cases on Friday, continuing an upward trend that began about a week ago as the more-infectious BA.2 subvariant continues to spread. \r\nLast week, the 7-day … [+3777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jesse O’Neill",
+            "title": "J.D. Vance secures Trump endorsement in hotly contested Ohio Senate race - New York Post ",
+            "description": "Author J.D. Vance’s bid for the hotly contested Republican US Senate seat in Ohio got a boost Friday when he was endorsed by his former adversary Donald Trump.",
+            "url": "https://nypost.com/2022/04/15/j-d-vance-secures-trump-endorsement-in-ohio-senate-race/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/trump-endorses-jd-vance.png?w=1024",
+            "publishedAt": "2022-04-16T02:26:00Z",
+            "content": "Author J.D. Vance’s bid for the hotly contested Republican US Senate seat in Ohio got a boost Friday when he was endorsed by his former adversary Donald Trump.\r\nThe endorsement in the GOP primary rac… [+2297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Emily Anthes",
+            "title": "A New Covid Breath Test Holds Promise, but Wide Use May Still Be Far Off - The New York Times",
+            "description": "The F.D.A. authorized a breath-based test made by a small Texas company, which said it hoped that mobile sites could use the device.",
+            "url": "https://www.nytimes.com/2022/04/15/health/covid-breath-test-fda.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/15/science/15virus-breath-test/15virus-breath-test-facebookJumbo.jpg",
+            "publishedAt": "2022-04-16T01:54:00Z",
+            "content": "Susan Butler-Wu, a clinical microbiologist at the Keck School of Medicine of the University of Southern California, said that she wanted to see more independent data on the devices performance and mo… [+1443 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe and Andy Rose, CNN",
+            "title": "South Carolina death row inmate chooses to be executed by firing squad over the electric chair - CNN",
+            "description": "Richard Moore chose to die by firing squad rather than the electric chair, making him the first death row inmate to pick the method of execution since the state adopted the method.",
+            "url": "https://www.cnn.com/2022/04/15/us/richard-moore-death-row-firing-squad/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220415173452-02-richard-moore-south-carolina-death-row-071119-file-super-tease.jpg",
+            "publishedAt": "2022-04-16T00:40:00Z",
+            "content": "(CNN)A man sentenced to death in South Carolina has chosen to be executed by firing squad rather than the electric chair, which would make him the first death row inmate to die by firing squad in the… [+3337 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "Apple's still not catching scammy apps, and this time they're on the Mac - The Verge",
+            "description": "Scam app hunter Kosta Eleftheriou has brought attention a den of shady apps on the Mac App Store, revealing a whole world of apps that make it difficult to close them without paying up.",
+            "url": "https://www.theverge.com/2022/4/15/23027363/apple-scammy-apps-mac-app-store-moderation",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/TW4Pgf11XrHiLVglsTuXYPnZNTg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22817752/acastro_210831_1777_0001.jpg",
+            "publishedAt": "2022-04-16T00:39:27Z",
+            "content": "These apps wont let you quit them unless you pay up or figure out their tricks\r\nIllustration by Alex Castro / The Verge\r\nScam app hunter / developer Kosta Eleftheriou, known for catching egregious sc… [+5418 chars]"
+        }
+    ]
+}
